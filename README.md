@@ -1,1 +1,1 @@
-# version-control-excersises
+# version-control-exercises
